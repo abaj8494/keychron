@@ -1,0 +1,4 @@
+VIA_ENABLE = yes
+AUTO_SHIFT_ENABLE = yes
+RGB_MATRIX_ENABLE = yes
+
