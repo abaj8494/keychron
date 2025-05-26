@@ -2,7 +2,7 @@
 
 this repo contains the source code for my `qmk` keyboards.
 
-notably, I own the Moonlander Mark I, but that is configured through the [https://configure.zsa.io/moonlander/layouts/yBYEx/latest/0](Graphical Editor).
+notably, I own the Moonlander Mark I, but that is configured through the [Graphical Editor](https://configure.zsa.io/moonlander/layouts/yBYEx/latest/0).
 
 additionally, we recently purchased the [Keychron Q0 Max](https://www.keychron.com/products/keychron-q0-max-qmk-custom-number-pad) as an interface to the Raspberry Pi 4:
 
