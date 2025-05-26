@@ -12,15 +12,15 @@ additionally, we recently purchased the [Keychron Q0 Max](https://www.keychron.c
 
 there are 4 fully programmable layers on the q0, and we use them primarily to interface with `ncmpcpp` in `tmux`:
 
-![ncmpcpp in tmux](ncmpcpp.png)
+![ncmpcpp in tmux](img/ncmpcpp.png)
 
 ## layers
 
 the layers are cryptic because they are also being remapped through the `dvorak` keyboard layout lol:
 
 <div align="center">
+    <img width="180px" src="img/l0.png" style="margin: 10px; display: block;">
     <img width="180px" src="img/l1.png" style="margin: 10px; display: block;">
     <img width="180px" src="img/l2.png" style="margin: 10px; display: block;">
     <img width="180px" src="img/l3.png" style="margin: 10px; display: block;">
-    <img width="180px" src="img/l4.png" style="margin: 10px; display: block;">
 </div>
