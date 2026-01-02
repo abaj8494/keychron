@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except these
+!.gitignore
+!img/
+!img/*
+!keyboards/keychron/q0_max/
+!keyboards/keychron/q0_max/**
